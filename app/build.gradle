@@ -42,7 +42,7 @@ dependencies {
 
 	// TODO: Remove for official release
 	// Temporarily include for Mod Menu during development
-	modRuntimeOnly "maven.modrinth:modmenu:13.0.3"
+	modRuntimeOnly "maven.modrinth:modmenu:13.0.4"
 }
 
 processResources {
